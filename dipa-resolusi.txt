@@ -2,3 +2,4 @@ DIPA RESOLUSI 2024
 -konsisten belajar coding
 -konsisten olahraga
 -sudah bisa menguasai bahasa pemrogramman js beserta library nya,dan juga bisa menguasai bahasa pemrogramman php(laravel)
+-sudah bisa membuat website e-commerce
